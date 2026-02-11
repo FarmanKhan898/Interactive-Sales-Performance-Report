@@ -72,5 +72,5 @@ The dataset includes:
 ---
 
 ## 👨‍💻 Author
-Farman Khan  
+Muhammad Farman  
 Aspiring Data Analyst | Power BI Enthusiast | Data Visualization Learner
