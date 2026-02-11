@@ -1,0 +1,51 @@
+Order ID,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode
+B-26001,2204,869,4,Office Supplies,Binders,EMI
+B-26002,3560,829,1,Electronics,Binders,COD
+B-26003,4163,242,6,Office Supplies,Binders,Debit Card
+B-26004,621,262,2,Electronics,Phones,EMI
+B-26005,2028,498,8,Electronics,Tables,COD
+B-26006,972,1229,9,Office Supplies,Chairs,Debit Card
+B-26007,3658,522,1,Electronics,Chairs,EMI
+B-26008,664,1190,1,Office Supplies,Chairs,COD
+B-26009,2409,638,10,Electronics,Tables,Debit Card
+B-26010,1663,294,5,Electronics,Printers,Credit Card
+B-26011,1992,907,7,Furniture,Binders,EMI
+B-26012,1175,1049,10,Office Supplies,Binders,Debit Card
+B-26013,2000,436,6,Electronics,Printers,Debit Card
+B-26014,638,403,8,Furniture,Phones,EMI
+B-26015,4614,1165,3,Furniture,Chairs,COD
+B-26016,4849,412,7,Office Supplies,Printers,Credit Card
+B-26017,1750,647,4,Office Supplies,Printers,EMI
+B-26018,2813,1497,6,Electronics,Tables,Debit Card
+B-26019,4205,625,6,Office Supplies,Binders,Credit Card
+B-26020,2354,663,10,Furniture,Chairs,EMI
+B-26021,2959,475,6,Office Supplies,Printers,EMI
+B-26022,1570,1174,7,Furniture,Phones,COD
+B-26023,3242,112,10,Office Supplies,Printers,COD
+B-26024,1339,912,1,Furniture,Chairs,COD
+B-26025,2567,167,6,Furniture,Chairs,Debit Card
+B-26026,2084,286,10,Furniture,Printers,Debit Card
+B-26027,1680,232,6,Electronics,Phones,COD
+B-26028,1400,345,3,Electronics,Phones,Credit Card
+B-26029,4617,1347,8,Furniture,Tables,Credit Card
+B-26030,4505,453,3,Electronics,Phones,Debit Card
+B-26031,919,1210,7,Electronics,Tables,Credit Card
+B-26032,3721,542,10,Electronics,Chairs,COD
+B-26033,502,460,6,Office Supplies,Phones,Credit Card
+B-26034,4617,558,5,Office Supplies,Chairs,Debit Card
+B-26035,4423,241,8,Electronics,Binders,Credit Card
+B-26036,3362,641,4,Furniture,Phones,Credit Card
+B-26037,4280,1359,7,Electronics,Binders,EMI
+B-26038,3776,745,9,Furniture,Printers,COD
+B-26039,2699,327,1,Office Supplies,Phones,COD
+B-26040,2297,119,3,Electronics,Chairs,Credit Card
+B-26041,3130,1182,8,Office Supplies,Printers,Credit Card
+B-26042,4016,106,3,Furniture,Binders,Credit Card
+B-26043,3120,780,6,Electronics,Tables,EMI
+B-26044,3777,1117,2,Electronics,Binders,Debit Card
+B-26045,1594,1370,9,Electronics,Printers,COD
+B-26046,1435,919,6,Furniture,Tables,Debit Card
+B-26047,1889,473,4,Electronics,Chairs,EMI
+B-26048,1250,780,3,Electronics,Printers,Debit Card
+B-26049,3376,189,7,Electronics,Phones,Debit Card
+B-26050,4629,783,7,Office Supplies,Chairs,COD
